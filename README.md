@@ -1,2 +1,2 @@
 # Inicio
-Descripción general del Proyecto a realizar
+En la pestaña "Wiki" se encuentra la descripción del proyecto 
